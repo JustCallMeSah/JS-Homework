@@ -1,0 +1,33 @@
+
+ Updated now
+'use strict'; console.log('working!');
+
+const firstName = "Sahar";
+
+console.log(firstName);
+
+const lastName = "Ansari";
+
+console.log(lastName);
+
+let age = 27;
+
+console.log(My name is ${firstName} ${lastName} and my favourite number is ${age});
+
+let X = 5;
+
+let Y = 50;
+
+console.log(X + Y);
+
+console.log(X - Y);
+
+console.log(X * Y);
+
+let changeNumber = 5; console.log(changeNumber);
+
+changeNumber = 300; console.log(changeNumber);
+
+const fruit = 'Oranges' const vegetable = 'Potatos' const drink = 'Cola'
+
+console.log(fruit + " Banana " + vegetable + " Lettuce " + drink + " Juice ");
